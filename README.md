@@ -9,18 +9,22 @@
 </p>
 <h3 align="center">📚 Tech Stack 📚</h3>
 
-  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Web Hacking](https://img.shields.io/badge/Web%20Hacking-000000?style=for-the-badge&logo=HackerRank&logoColor=white)
-  ![Mobile Hacking](https://img.shields.io/badge/Mobile%20Hacking-02569B?style=for-the-badge&logo=Android&logoColor=white)
-  ![Pwnable](https://img.shields.io/badge/Pwnable-FF6F00?style=for-the-badge&logo=Hack%20The%20Box&logoColor=white)
-  ![Reversing](https://img.shields.io/badge/Reversing-0D1017?style=for-the-badge&logo=Binance&logoColor=white)
-  ![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-9B1C31?style=for-the-badge&logo=Kali%20Linux&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>&nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>&nbsp;
+  <br>
+  <img src="https://img.shields.io/badge/Web%20Hacking-000000?style=flat-square&logo=HackerRank&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Mobile%20Hacking-02569B?style=flat-square&logo=Android&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Pwnable-FF6F00?style=flat-square&logo=Hack%20The%20Box&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Reversing-0D1017?style=flat-square&logo=Binance&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Penetration%20Testing-9B1C31?style=flat-square&logo=Kali%20Linux&logoColor=white"/>&nbsp;
+  <br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>&nbsp;
+</p>
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
