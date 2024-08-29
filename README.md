@@ -4,3 +4,34 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=g2hsec&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</p>
+<h3 align="center">📚 Tech Stack 📚</h3>
+<p align="center">
+  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Web Hacking](https://img.shields.io/badge/Web%20Hacking-000000?style=for-the-badge&logo=HackerRank&logoColor=white)
+  ![Mobile Hacking](https://img.shields.io/badge/Mobile%20Hacking-02569B?style=for-the-badge&logo=Android&logoColor=white)
+  ![Pwnable](https://img.shields.io/badge/Pwnable-FF6F00?style=for-the-badge&logo=Hack%20The%20Box&logoColor=white)
+  ![Reversing](https://img.shields.io/badge/Reversing-0D1017?style=for-the-badge&logo=Binance&logoColor=white)
+  ![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-9B1C31?style=for-the-badge&logo=Kali%20Linux&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
+</p>
+
+<h3 align="center">🌈 Follow Me 🌈</h3>
+<p align="center">
+   <a href="https://www.instagram.com/hyeok_01_l/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+  </a>
+    <a href="[https://your-github-blog-link](https://g2hsec.github.io/)">
+    <img src="https://img.shields.io/badge/GitHub Blog-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+  </a>
+    <a href="g2hsec@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+</p>
