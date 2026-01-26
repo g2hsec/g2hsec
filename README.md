@@ -1,133 +1,208 @@
-<!--
-/// G2HSEC PORTFOLIO PROTOCOL v6.0 ///
-/// THEME: ULTRA WIDE DARK OPS ///
-/// STATUS: ONLINE ///
--->
+<!-- =========================================================
+  Portfolio README (No external images required)
+  - Cinematic layout with "cards" using HTML tables
+  - Scan-friendly: KPI → Featured → Proof → Capability → Lab
+  - Optional Mermaid visuals (GitHub supports Mermaid)
+========================================================= -->
 
-<!-- 1. HEADER: IMMERSIVE ANIMATION -->
+<h1 align="center">[YOUR NAME / HANDLE]</h1>
+<p align="center"><strong>Security Research · Red Team · Detection Engineering</strong></p>
+<p align="center"><sub>Evidence-first · Reproducible PoC · Code-level root cause · Practical impact</sub></p>
 
-<div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0:1a1a2e,100:16213e%26height%3D280%26section%3Dheader%26text%3DG2HSEC%26fontSize%3D80%26fontColor%3D00fff5%26fontAlignY%3D35%26animation%3DfadeIn%26desc%3DRED%2520TEAM%2520OPERATOR%2520%257C%2520THREAT%2520HUNTER%2520%257C%2520DFIR%26descSize%3D18%26descAlignY%3D65%26descAlign%3D50" width="100%" alt="Header"/>
-</div>
+<hr/>
 
-<!-- 2. TYPING EFFECT (IDENTITY) -->
-
-<div align="center">
-<a href="https://www.google.com/search?q=https://git.io/typing-svg">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D24%26duration%3D2000%26pause%3D500%26color%3D39FF14%26background%3D00000000%26vCenter%3Dtrue%26multiline%3Dfalse%26width%3D700%26height%3D50%26lines%3DINITIALIZING_NEURAL_LINK...%3BEXEC_MISSION%253A_ADVANCED_THREAT_SIMULATION%3BEXEC_MISSION%253A_AUTOMATED_DEFENSE_PIPELINE%3BTARGET_LOCKED%253A_SECURE_INFRASTRUCTURE" alt="Typing SVG" />
-</a>
-</div>
-
-<!-- 3. MAIN INTERFACE (TERMINAL & SKILLS) -->
-
-<table align="center" border="0" width="100%" style="border-collapse: collapse;">
-<tr>
-<!-- LEFT: OPERATOR TERMINAL -->
-<td width="55%" valign="top">
-<h3 align="left">
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/iY8CRBdQXODJSCerVq/giphy.gif" width="22" height="22" style="vertical-align:middle">
-<span style="color:#00fff5; font-family: monospace;">TERMINAL_ACCESS</span>
-</h3>
-<div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
-<pre style="font-family: 'Fira Code', monospace; line-height: 1.4;">
-<span style="color:#ff0055">root@g2hsec:~#</span> ./identify_user.sh
-<span style="color:#c9d1d9">> Subject: Offensive Security Specialist</span>
-<span style="color:#c9d1d9">> Clearance: <span style="background-color:#ff0055; color:black; padding:0 4px; border-radius:2px;">TOP_SECRET</span></span>
-
-<span style="color:#ff0055">root@g2hsec:~#</span> cat active_missions.log
-<span style="color:#2ecc71">[✓] APT Simulation (MITRE ATT&CK)</span>
-<span style="color:#2ecc71">[✓] Automated CTI (Suricata/Zeek/Wazuh)</span>
-<span style="color:#2ecc71">[✓] Vulnerability Analysis Pipeline</span>
-<span style="color:#2ecc71">[✓] DevSecOps Integration</span>
-
-<span style="color:#ff0055">root@g2hsec:~#</span> echo "Ready to Engage."
-<span style="color:#00fff5">Ready to Engage.█</span>
-</pre>
-</div>
-</td>
-
-<!-- RIGHT: ARSENAL (ICONS) -->
-<td width="45%" valign="top" align="center">
-  <h3 align="center">
-    <span style="color:#8b5cf6; font-family: monospace;">WEAPONRY_STACK</span>
-  </h3>
-  <div style="background: #161b22; border-radius: 12px; padding: 20px; border: 1px solid #30363d;">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=linux,kali,windows,ubuntu&perline=4&theme=dark" />
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=py,c,cpp,rust,go&perline=5&theme=dark" />
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,jenkins&perline=5&theme=dark" />
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=md,vscode,vim,idea,elasticsearch&perline=5&theme=dark" />
-    </a>
-  </div>
-</td>
-
-
-</tr>
+<!-- ===================== KPI STRIP ===================== -->
+<table>
+  <tr>
+    <td align="center" width="25%"><strong>Focus</strong><br/><sub>Web · Cloud · DevSecOps</sub></td>
+    <td align="center" width="25%"><strong>Strength</strong><br/><sub>AuthZ · Injection · Supply Chain</sub></td>
+    <td align="center" width="25%"><strong>Output</strong><br/><sub>PoC · Patch Guidance · Detections</sub></td>
+    <td align="center" width="25%"><strong>Style</strong><br/><sub>High-signal · Low-noise</sub></td>
+  </tr>
 </table>
 
-<!-- 4. FEATURED OPERATIONS (PROJECT CARDS) - PORTFOLIO LOOK -->
+<p align="center">
+  <a href="#featured">Featured</a> ·
+  <a href="#proof">Proof</a> ·
+  <a href="#capabilities">Capabilities</a> ·
+  <a href="#tooling">Tooling</a> ·
+  <a href="#lab--research">Lab</a> ·
+  <a href="#contact">Contact</a>
+</p>
 
-<h3 align="center">
-<span style="color:#ff0055">FEATURED_OPERATIONS</span>
-</h3>
+---
 
-<table align="center" border="0" width="100%">
-<tr>
-<td width="50%" align="center">
-<a href="https://github.com/g2hsec/Developing-MITRE-ATT-CK-based-APT-attack-simulation-and-detection-models-using-open-source">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Dg2hsec%26repo%3DDeveloping-MITRE-ATT-CK-based-APT-attack-simulation-and-detection-models-using-open-source%26theme%3Dtokyonight%26bg_color%3D0d1117%26title_color%3D00fff5%26icon_color%3D8b5cf6%26text_color%3Dc9d1d9%26hide_border%3Dtrue" width="100%" alt="Project 1" />
-</a>
-</td>
-<td width="50%" align="center">
-<a href="https://github.com/g2hsec/FindBugLab_g'">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Dg2hsec%26repo%3DFindBugLab_g%26theme%3Dtokyonight%26bg_color%3D0d1117%26title_color%3D00fff5%26icon_color%3D8b5cf6%26text_color%3Dc9d1d9%26hide_border%3Dtrue" width="100%" alt="Project 2" />
-</a>
-</td>
-</tr>
+## Executive Snapshot
+
+> I deliver **high-signal security outcomes** by walking the full chain:  
+> **Discover → Prove → Explain → Fix/Detect**
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>What I do</h3>
+      <ul>
+        <li><b>Vulnerability research</b> with strict threat modeling and boundary analysis</li>
+        <li><b>Pentest/Red team</b> scenarios aligned to enterprise realities</li>
+        <li><b>Detection engineering</b> with validated telemetry and tuning</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>What you get</h3>
+      <ul>
+        <li><b>Reproducible PoC bundles</b> (steps, env assumptions, evidence)</li>
+        <li><b>Patch guidance</b> (root cause + minimal-risk fix strategy)</li>
+        <li><b>Detection pack</b> (rules + mapping + validation notes)</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
-<!-- 5. INTELLIGENCE DASHBOARD (STATS) -->
+---
 
-<h3 align="center">
-<span style="color:#00fff5">INTELLIGENCE_DATA</span>
-</h3>
+## Featured
 
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dg2hsec%26show_icons%3Dtrue%26theme%3Dtokyonight%26rank_icon%3Dgithub%26include_all_commits%3Dtrue%26count_private%3Dtrue%26hide_border%3Dtrue%26bg_color%3D0d1117%26title_color%3D00fff5%26icon_color%3Dff0055%26text_color%3Dc9d1d9%26custom_title%3DGlobal%2520Combat%2520Stats" width="49%" />
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com%3Fuser%3Dg2hsec%26theme%3Dtokyonight%26hide_border%3Dtrue%26background%3D0D1117%26ring%3Dff0055%26fire%3D00fff5%26currStreakLabel%3D00fff5" width="49%" />
-</div>
+> Keep this section tight. 4–8 items is the sweet spot.
 
-<!-- 6. ACTIVITY GRAPH -->
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>⭐ [FEATURED #1 TITLE]</h3>
+      <ul>
+        <li><b>Category</b>: [CWE / type]</li>
+        <li><b>Impact</b>: [C/I/A + what breaks]</li>
+        <li><b>Prereq</b>: [role/auth/conditions]</li>
+        <li><b>Evidence</b>: [link]</li>
+        <li><b>PoC</b>: [link]</li>
+        <li><b>Fix hint</b>: [one-liner]</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>⭐ [FEATURED #2 TITLE]</h3>
+      <ul>
+        <li><b>Category</b>: [CWE / type]</li>
+        <li><b>Impact</b>: [C/I/A + what breaks]</li>
+        <li><b>Prereq</b>: [role/auth/conditions]</li>
+        <li><b>Evidence</b>: [link]</li>
+        <li><b>PoC</b>: [link]</li>
+        <li><b>Fix hint</b>: [one-liner]</li>
+      </ul>
+    </td>
+  </tr>
 
-<div align="center">
-<img src="https://www.google.com/search?q=https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="separator"/>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🧩 [TOOL/PROJECT #1]</h3>
+      <ul>
+        <li><b>Type</b>: [triage automation / log enrichment / lab orchestration]</li>
+        <li><b>Outcome</b>: [FP↓ / coverage↑ / time-to-triage↓]</li>
+        <li><b>Repo</b>: [link]</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🧩 [TOOL/PROJECT #2]</h3>
+      <ul>
+        <li><b>Type</b>: [detector pack / pipeline / parser]</li>
+        <li><b>Outcome</b>: [measurable result]</li>
+        <li><b>Repo</b>: [link]</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
+---
 
+## Proof
 
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3>Findings</h3>
+      <ul>
+        <li><b>CVE</b>: [CVE-YYYY-XXXX] / [candidate]</li>
+        <li><b>Advisories</b>: [link], [link]</li>
+        <li><b>Writeups</b>: [link], [link]</li>
+      </ul>
+    </td>
+    <td valign="top" width="33%">
+      <h3>Programs</h3>
+      <ul>
+        <li><b>HackerOne</b>: [profile link]</li>
+        <li><b>Intigriti</b>: [profile link]</li>
+        <li><b>VDPs</b>: [link]</li>
+      </ul>
+    </td>
+    <td valign="top" width="33%">
+      <h3>Artifacts</h3>
+      <ul>
+        <li><b>PoC bundles</b>: deterministic steps + evidence pack</li>
+        <li><b>Detection pack</b>: rules + mapping + validation notes</li>
+        <li><b>Lab manifests</b>: reproducible infrastructure + scenarios</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
+<details>
+<summary><strong>Evidence Standard (What I attach)</strong></summary>
 
+- Root-cause: code path + condition + boundary broken
+- Reproduction: exact steps + environment assumptions
+- Evidence: logs/pcap/requests + before/after diffs
+- Risk: practical impact narrative (not speculative)
+- Fix: minimal-risk remediation guidance + regression notes
 
+</details>
 
-<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Dg2hsec%26theme%3Dreact-dark%26hide_border%3Dtrue%26area%3Dtrue%26color%3D8b5cf6%26line%3D00fff5%26point%3Dffffff" width="100%" alt="Activity Graph"/>
-</div>
+---
 
-<!-- 7. FOOTER & CONTACT -->
+## Capabilities
 
-<div align="center">
-<a href="https://hg2lee.tistory.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/ENCRYPTED_CHANNEL-BLOG_ACCESS-black%3Fstyle%3Dfor-the-badge%26logo%3Dtistory%26logoColor%3Dwhite%26color%3D16213e" height="35"/>
-</a>
-<a href="mailto:test@example.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/SECURE_UPLINK-EMAIL_ME-black%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dff0055%26color%3D16213e" height="35"/>
-</a>
-<a href="https://github.com/g2hsec?tab=repositories">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/DATABASE-REPOSITORIES-black%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite%26color%3D16213e" height="35"/>
-</a>
-</div>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Offensive</h3>
+      <ul>
+        <li><b>Web/API</b>: authz/IDOR, injection, SSRF, deserialization, business logic</li>
+        <li><b>Multi-tenant</b>: org isolation, token scopes, delegated access abuse</li>
+        <li><b>Supply chain</b>: CI/CD abuse paths, secrets, artifact integrity</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>Defensive</h3>
+      <ul>
+        <li><b>Detection</b>: Suricata/Zeek/Sigma-style logic, tuning, validation</li>
+        <li><b>IR</b>: triage playbooks, evidence capture, timeline reconstruction</li>
+        <li><b>Signal engineering</b>: noise filters, correlation, enrichment</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0:16213e,100:1a1a2e%26height%3D100%26section%3Dfooter%26text%3DCONNECTION_TERMINATED%26fontSize%3D15%26fontColor%3D666%26fontAlign%3D50" width="100%"/>
-</div>
+---
+
+## Tooling
+
+**Languages**: Python · Bash · [Go/JS/Ruby/…]  
+**Security**: Burp Suite · [ffuf/nuclei/…] · Suricata · Zeek · ELK/Wazuh  
+**Infra/Lab**: Docker · VMware/ESXi · pfSense · [GitLab/Jenkins/…]  
+
+---
+
+## Lab & Research
+
+> A realistic lab to validate both **exploitation** and **detection**.
+
+- Segmentation: **DMZ / Corp / Dev**
+- Controls: **WAF (ModSecurity)** · **IPS (Suricata)** · centralized telemetry (**ELK/Wazuh**)
+- Scenarios: **CI/CD chain** (GitLab→Jenkins→deploy) + adversary emulation + detection validation
+
+```mermaid
+flowchart LR
+  A[Attacker / Red Team] --> B[Edge: pfSense]
+  B --> C[IPS: Suricata]
+  C --> D[WAF: ModSecurity]
+  D --> E[Apps: Web/API]
+  E --> F[Telemetry: ELK/Wazuh]
+  F --> G[Detection Pack / Rules]
+  G --> H[Validation: FP↓ / Coverage↑]
