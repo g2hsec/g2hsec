@@ -1,129 +1,162 @@
-<!-- GitHub Profile README — Interactive v3 (Trendy · Neon × Black) for g2hsec -->
-
-<!-- Put this into the repo named exactly: g2hsec/g2hsec -->
+<!-- GitHub Profile README — Red Team / Operator Style for g2hsec -->
 
 <div align="center">
-  <a href="https://github.com/g2hsec"><img src="https://github.com/g2hsec.png" width="100" alt="avatar"/></a>
 
-  <h1 style="margin:6px 0 0 0">g2hsec</h1>
-  <sub>Cybersecurity · Red/Purple Team · DFIR · Threat Detection</sub>
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=16&duration=2600&pause=600&color=00F0FF&center=true&vCenter=true&multiline=false&width=520&lines=ATT%26CK-mapped+research%2C+Cloud+%26+DFIR%2C+CTI+automation" alt="typing"/>
+<!-- Header Logo & Identity -->
 
-  <p>
-    <a href="https://hg2lee.tistory.com" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-hg2lee.tistory.com-00e5ff?style=flat&logo=hashnode&logoColor=1e293b"></a>
-    <a href="mailto:test@example.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Contact-Email-111827?style=flat&logo=gmail&logoColor=00e5ff"></a>
-    <a href="https://github.com/g2hsec?tab=repositories" target="_blank"><img alt="Repos" src="https://img.shields.io/badge/Repos-Explore-0b1220?style=flat&logo=github&logoColor=ffffff"></a>
-    <img alt="views" src="https://komarev.com/ghpvc/?username=g2hsec&label=views&color=00e5ff&style=flat"/>
-  </p>
+<a href="https://github.com/g2hsec">
+<img src="https://github.com/g2hsec.png" width="120" style="border-radius: 50%; border: 3px solid #00e5ff;" alt="avatar"/>
+</a>
+
+<h1 style="font-size: 30px; color: #ffffff;">&lt; g2hsec /&gt;</h1>
+
+<!-- Dynamic Typing Effect -->
+
+<a href="https://www.google.com/search?q=https://git.io/typing-svg">
+<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D22%26duration%3D2000%26pause%3D500%26color%3D00E5FF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26lines%3DOffensive%2BSecurity%2BSpecialist%3BRed%2B%2526%2BPurple%2BTeam%2BOperations%3BDFIR%2B%2526%2BThreat%2BHunting%3BAutomated%2BAttack%2BSimulation" alt="Typing SVG" />
+</a>
+
+<!-- Social / Contact Badges -->
+
+<p>
+<a href="https://hg2lee.tistory.com" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Blog-Tistory-000000%3Fstyle%3Dfor-the-badge%26logo%3Dtistory%26logoColor%3Dwhite%26color%3Dblack" alt="Blog"/>
+</a>
+<a href="mailto:test@example.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-Contact_Me-000000%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3DEA4335%26color%3Dblack" alt="Email"/>
+</a>
+<a href="https://github.com/g2hsec?tab=repositories">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Repos-Access_Denied-000000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite%26color%3D181717" alt="Repos"/>
+</a>
+</p>
+
 </div>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:8b5cf6&height=3&text=&fontSize=0"/></p>
+<!-- Introduction Terminal Style -->
 
-## Snapshot
+<h3 align="center">🖥️ Operator Session Established</h3>
 
-* Purple Team 랩: Caldera BAS · ATT\&CK 매핑 · Suricata/Zeek/Wazuh 파이프라인
-* AI 탐지: DGA(CNN+BiLSTM+Attention), QR 피싱 인텔/캐싱
-* DevSecOps: GitLab ↔ Jenkins CI/CD, IaC, 비밀/취약점 스캔 자동화
+root@g2hsec:~# whoami
+> Cybersecurity Researcher specializing in Red/Purple Teaming & DFIR.
 
-> \[!TIP]
-> **Interactive:** 아래 모든 패널은 주기적으로 갱신됩니다. 라이트/다크 모드에 따라 자동으로 스타일이 바뀝니다.
+root@g2hsec:~# cat ./mission.txt
+> Mapping threats to MITRE ATT&CK.
+> Building automated CTI pipelines (Suricata/Zeek/Wazuh).
+> Developing AI-driven detection models (DGA/Phishing).
+> DevSecOps integration (GitLab/Jenkins/IaC).
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b5cf6,100:00e5ff&height=3&text=&fontSize=0"/></p>
 
-## ✨ Live Panels
+<!-- Stats Dashboard -->
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:8b5cf6&height=3&text=&fontSize=0"/></p>
+<h3 align="center">📊 Operations Dashboard</h3>
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dg2hsec%26show_icons%3Dtrue%26theme%3Dradical%26rank_icon%3Dgithub%26include_all_commits%3Dtrue%26bg_color%3D0d1117%26title_color%3D00e5ff%26icon_color%3D8b5cf6%26text_color%3Dc9d1d9%26hide_border%3Dtrue" height="150" alt="stats graph" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dg2hsec%26layout%3Dcompact%26theme%3Dradical%26bg_color%3D0d1117%26title_color%3D00e5ff%26icon_color%3D8b5cf6%26text_color%3Dc9d1d9%26hide_border%3Dtrue%26langs_count%3D6" height="150" alt="languages graph" />
+</div>
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img height="165" src="https://github-readme-stats.vercel.app/api?username=g2hsec&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&hide_border=true" alt="stats"/>
-    </td>
-    <td align="center" width="33%">
-      <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=g2hsec&theme=tokyonight&hide_border=true" alt="streak"/>
-    </td>
-    <td align="center" width="33%">
-      <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g2hsec&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages"/>
-    </td>
-  </tr>
-</table>
+<!-- Streak & Activity -->
 
-<br/>
-<p align="center">
-  <img height="220" width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=g2hsec&theme=react-dark&hide_border=true&radius=8&area=true" alt="activity graph"/>
-</p>
+<div align="center">
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b5cf6,100:00e5ff&height=3&text=&fontSize=0"/></p>
 
-## 🛠️ Skills
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:8b5cf6&height=3&text=&fontSize=0"/></p>
 
-### Platforms & OS
 
-<p>
-  <img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white"/>
-</p>
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com%3Fuser%3Dg2hsec%26theme%3Dradical%26hide_border%3Dtrue%26background%3D0D1117%26ring%3D8b5cf6%26fire%3D00e5ff%26currStreakLabel%3D00e5ff" alt="streak graph" />
+</div>
 
-### Tools
+<!-- Tech Stack / Arsenal -->
 
-<p>
-  <img src="https://img.shields.io/badge/Kali%20Linux-2684FF?style=flat-square&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ELK%20(Elastic%20Stack)-005571?style=flat-square&logo=elastic&logoColor=white"/>
-</p>
+<h3 align="center">🛠️ Technical Arsenal</h3>
 
-### Frameworks & Standards
-
-<p>
-  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-DD1B16?style=flat-square&logo=mitre&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CTI-THREAT%20INTEL-0ea5e9?style=flat-square"/>
-  <img src="https://img.shields.io/badge/ISMS-KR%20Compliance-111827?style=flat-square"/>
-</p>
-
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b5cf6,100:00e5ff&height=3&text=&fontSize=0"/></p>
-
-## 📌 Highlights
-
-<br/>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:8b5cf6&height=3&text=&fontSize=0"/></p>
+<div align="center">
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/g2hsec/Developing-MITRE-ATT-CK-based-APT-attack-simulation-and-detection-models-using-open-source">ATT&CK APT Simulation & Detection</a></h3>
-      <p>오픈소스 기반 MITRE ATT&CK 매핑 APT 시뮬레이션 및 탐지 모델.</p>
-      <ul>
-        <li>ATT&CK TTP 매핑 · DFIR 플레이북</li>
-        <li>CTI 연계 · 실험 자동화</li>
-      </ul>
-      <p>
-        <a href="https://github.com/g2hsec/Developing-MITRE-ATT-CK-based-APT-attack-simulation-and-detection-models-using-open-source">
-          <img src="https://img.shields.io/badge/Open%20Repository-00e5ff?style=for-the-badge&logo=github&logoColor=1e293b" alt="Open repo"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/g2hsec/FindBugLab_g'">FindBugLab_g</a></h3>
-      <p>버그 헌팅/취약점 분석 워크플로우와 도구 통합.</p>
-      <ul>
-        <li>Kali · Burp Suite · ELK 파이프라인</li>
-        <li>케이스 스터디/PoC 정리</li>
-      </ul>
-      <p>
-        <a href="https://github.com/g2hsec/FindBugLab_g'">
-          <img src="https://img.shields.io/badge/Open%20Repository-111827?style=for-the-badge&logo=github&logoColor=00e5ff" alt="Open repo"/>
-        </a>
-      </p>
-    </td>
-  </tr>
+<tr>
+<td align="center" width="90"><b>Platforms</b></td>
+<td>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Linux-FCC624%3Fstyle%3Dflat-square%26logo%3Dlinux%26logoColor%3Dblack"/>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dflat-square%26logo%3Ddocker%26logoColor%3Dwhite"/>
+</td>
+</tr>
+<tr>
+<td align="center" width="90"><b>Offensive</b></td>
+<td>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Kali%2520Linux-557C94%3Fstyle%3Dflat-square%26logo%3Dkalilinux%26logoColor%3Dwhite"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Metasploit-333333%3Fstyle%3Dflat-square%26logo%3Dmetasploit%26logoColor%3Dwhite"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Wireshark-1679A7%3Fstyle%3Dflat-square%26logo%3Dwireshark%26logoColor%3Dwhite"/>
+</td>
+</tr>
+<tr>
+<td align="center" width="90"><b>Defensive</b></td>
+<td>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Elastic%2520Stack-005571%3Fstyle%3Dflat-square%26logo%3Delastic%26logoColor%3Dwhite"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Splunk-000000%3Fstyle%3Dflat-square%26logo%3Dsplunk%26logoColor%3Dwhite"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Suricata-F37021%3Fstyle%3Dflat-square%26logo%3Dsuricata%26logoColor%3Dwhite"/>
+</td>
+</tr>
+<tr>
+<td align="center" width="90"><b>Standard</b></td>
+<td>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/MITRE%2520ATT%26CK-DD1B16%3Fstyle%3Dflat-square%26logo%3Dmitre%26logoColor%3Dwhite"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/ISMS-Compliance-00e5ff%3Fstyle%3Dflat-square"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/OWASP-Top%252010-black%3Fstyle%3Dflat-square%26logo%3Dowasp"/>
+</td>
+</tr>
 </table>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b5cf6,100:00e5ff&height=3&text=&fontSize=0"/></p>
+</div>
 
-## Contact
+<!-- Featured Projects -->
 
-* Mail: [test@example.com](mailto:test@example.com)
+<h3 align="center">⚡ Priority Intelligence & Projects</h3>
+
+<table align="center" border="0">
+<tr>
+<td width="50%" align="center">
+<h3>🔴 APT Simulation & Detection</h3>
+<p><b>MITRE ATT&CK 기반 공격 시뮬레이션 및 탐지 모델</b></p>
+<p>
+<code>ATT&CK Mapping</code> <code>DFIR Playbook</code>
+
+
+
+
+<code>Automated Experiment</code>
+</p>
+<a href="https://github.com/g2hsec/Developing-MITRE-ATT-CK-based-APT-attack-simulation-and-detection-models-using-open-source">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/View_Project-Access-8b5cf6%3Fstyle%3Dfor-the-badge" />
+</a>
+</td>
+<td width="50%" align="center">
+<h3>🟣 FindBugLab_g</h3>
+<p><b>통합 버그헌팅 및 취약점 분석 워크플로우</b></p>
+<p>
+<code>Kali Pipeline</code> <code>Burp + ELK</code>
+
+
+
+
+<code>PoC Archive</code>
+</p>
+<a href="https://github.com/g2hsec/FindBugLab_g'">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/View_Project-Access-00e5ff%3Fstyle%3Dfor-the-badge%26color%3D00e5ff" />
+</a>
+</td>
+</tr>
+</table>
+
+<!-- Footer / Waving Animation -->
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0:00e5ff,100:8b5cf6%26height%3D100%26section%3Dfooter" width="100%"/>
+
+
+
+
+
+<sub style="color:#666;">End of Transmission · g2hsec © 2026</sub>
+</div>
